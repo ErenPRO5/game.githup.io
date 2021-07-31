@@ -1,1 +1,1 @@
-# game.githup.io
+# playgame.githup.io
